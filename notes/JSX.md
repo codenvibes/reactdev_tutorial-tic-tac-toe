@@ -122,7 +122,3 @@ function App() {
 
 export default App;
 ```
-
-### Summary
-
-JSX makes it easier to create and manage the structure of React components by allowing you to write HTML-like syntax within JavaScript. It supports embedding expressions, using attributes, handling children, applying styles, and conditionally rendering content. JSX is a powerful tool that enhances the readability and maintainability of your React code.

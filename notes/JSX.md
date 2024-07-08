@@ -1,4 +1,4 @@
-JSX stands for JavaScript XML. It is a syntax extension for JavaScript that allows you to write HTML-like code within JavaScript. JSX makes it easier to create and manage the structure of React components by allowing you to describe what the UI should look like in a declarative way. Here's a more detailed look at JSX:
+JSX stands for JavaScript XML(Extensible Markup Language). It is a syntax extension for JavaScript that allows you to write HTML-like code within JavaScript. JSX makes it easier to create and manage the structure of React components by allowing you to describe what the UI should look like in a declarative way. Here's a more detailed look at JSX:
 
 ### 1. **Basic Syntax**
 

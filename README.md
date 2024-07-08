@@ -38,7 +38,7 @@ React is all about components. A component is a reusable piece of UI. There are 
 
 #### Functional Components
 
-A functional component is a simple JavaScript function that returns JSX.
+A functional component is a simple JavaScript function that returns [JSX](https://github.com/codenvibes/reactdev_tutorial-tic-tac-toe/blob/master/notes/JSX.md).
 
 ```jsx
 import React from 'react';
